@@ -12,13 +12,13 @@
 }
 
 :root {
-    --bg-color: #fdfdfd; /* white */
-    --text-color: #333;  /* black */
-    --main-color: #fdd835; /* yellow */
+    --bg-color: #fdfdfd;
+    --text-color: #333;
+    --main-color: #4fc3f7; /* light blue */
     --white-color: #fdfdfd;
-    --shadow-color: rgba(0, 0, 0, .2); /* light black */
+    --shadow-color: rgba(0, 0, 0, .2);
 }
-    
+
 
 *::selection {
     background: var(--main-color);
